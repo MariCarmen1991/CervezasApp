@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CervezasApp</string>
+    <string name="cerveza_texto">NOMBRE CERVEZA</string>
+    <string name="titulo_cervezas">Cerveza Artesana</string>
+    <string name="texto_malta">Malta</string>
+    <string name="texto_lupulo">Lúpulo</string>
+    <string name="texto_ebc">ebc</string>
+    <string name="texto_abv">abv</string>
+    <string name="texto_ibu">ibu</string>
+    <string name="texto_fg">target fg</string>
+    <string name="texto_og">target og</string>
+    <string name="texto_srm">srm</string>
+    <string name="texto_ph">ph</string>
+    <string name="texto_ingredientes">INGREDIENTES</string>
+
+
+</resources>
